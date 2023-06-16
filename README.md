@@ -1,6 +1,6 @@
 # My First Remote Repo
 
-This is my first remote repo.
+This is my first remote repo. How Fun !
 
 It started life as a local git repository.
 
